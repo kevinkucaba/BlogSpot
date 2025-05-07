@@ -1,0 +1,24 @@
+{
+  "name": "blogspot",
+  "version": "1.0.0",
+  "description": "**BlogSpot** is a full-stack web application that allows users to write, publish, and store their personal blog posts in an intuitive and clean interface. Designed as a capstone project, this app demonstrates my proficiency in building dynamic, server-rendered web applications using **Node.js**, **Express.js**, and **EJS** templating.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkucaba/BlogSpot.git"
+  },
+  "author": "Kevin Kucaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkucaba/BlogSpot/issues"
+  },
+  "homepage": "https://github.com/kevinkucaba/BlogSpot#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
